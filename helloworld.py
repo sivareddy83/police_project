@@ -6,3 +6,4 @@ for i in x[::-1].split():
     y.append(i)
 
 print(y)
+print('hello how are you')
